@@ -4,4 +4,6 @@ This will make conflict
 Making some changes here
 And - solving conflict.
 
+Change from master
+
 Hello, again!!!
